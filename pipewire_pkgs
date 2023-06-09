@@ -1,0 +1,10 @@
+pipewire
+lib32-pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+gst-plugin-pipewire
+pipewire-audio
+realtime-privileges
+libpulse
+wireplumber

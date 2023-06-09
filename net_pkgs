@@ -1,0 +1,17 @@
+bind
+dhcpcd
+dhclient
+dnsmasq
+ethtool
+modemmanager
+networkmanager
+networkmanager-qt
+networkmanager-openconnect
+networkmanager-openvpn
+network-manager-applet
+nm-connection-editor
+net-tools
+netctl
+usb_modeswitch
+iw
+wpa_supplicant

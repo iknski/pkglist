@@ -1,0 +1,15 @@
+dosfstools
+e2fsprogs
+exfatprogs
+f2fs-tools
+ntfs-3g
+nfs-utils
+nilfs-utils
+mtools
+mtpfs
+usbutils
+hwdetect
+hdparm
+xfsprogs
+reiserfsprogs
+jfsutils
